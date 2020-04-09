@@ -1,1 +1,1 @@
-# Pattern
+# GOF_PATTERNS
